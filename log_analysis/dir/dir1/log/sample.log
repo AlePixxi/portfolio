@@ -1,0 +1,402 @@
+2012-02-03 18:35:34 SampleClass6 [INFO] everything normal for id 577725851
+2012-02-03 18:35:34 SampleClass4 [FATAL] system problem at id 1991281254
+2012-02-03 18:35:34 SampleClass3 [DEBUG] detail for id 1304807656
+2012-02-03 18:35:34 SampleClass3 [WARN] missing id 423340895
+2012-02-03 18:35:34 SampleClass5 [TRACE] verbose detail for id 2082654978
+2012-02-03 18:35:34 SampleClass0 [ERROR] incorrect id  1886438513
+2012-02-03 18:35:34 SampleClass9 [TRACE] verbose detail for id 438634209
+2012-02-03 18:35:34 SampleClass8 [DEBUG] detail for id 2074121310
+2012-02-03 18:35:34 SampleClass0 [TRACE] verbose detail for id 1505582508
+2012-02-03 18:35:34 SampleClass0 [TRACE] verbose detail for id 1903854437
+2012-02-03 18:35:34 SampleClass7 [DEBUG] detail for id 915853141
+2012-02-03 18:35:34 SampleClass3 [TRACE] verbose detail for id 303132401
+2012-02-03 18:35:34 SampleClass6 [TRACE] verbose detail for id 151914369
+2012-02-03 18:35:34 SampleClass2 [DEBUG] detail for id 146527742
+2012-02-03 18:35:34 SampleClass5 [TRACE] verbose detail for id 1147275656
+2012-02-03 18:35:34 SampleClass0 [TRACE] verbose detail for id 1639322587
+2012-02-03 18:35:34 SampleClass0 [DEBUG] detail for id 1947448465
+2012-02-03 18:35:34 SampleClass8 [INFO] everything normal for id 146253849
+2012-02-03 18:35:34 SampleClass9 [TRACE] verbose detail for id 1608957378
+2012-02-03 18:35:34 SampleClass0 [TRACE] verbose detail for id 1183808280
+2012-02-03 18:35:34 SampleClass4 [DEBUG] detail for id 1395585766
+2012-02-03 18:35:34 SampleClass4 [TRACE] verbose detail for id 155983096
+2012-02-03 18:35:34 SampleClass5 [TRACE] verbose detail for id 1632884948
+2012-02-03 18:35:34 SampleClass2 [DEBUG] detail for id 110682237
+2012-02-03 18:35:34 SampleClass3 [TRACE] verbose detail for id 1739786736
+2012-02-03 18:35:34 SampleClass5 [TRACE] verbose detail for id 792309118
+2012-02-03 18:35:34 SampleClass1 [DEBUG] detail for id 1142802377
+2012-02-03 18:35:34 SampleClass2 [TRACE] verbose detail for id 1559025043
+2012-02-03 18:35:34 SampleClass7 [TRACE] verbose detail for id 40752315
+2012-02-03 18:35:34 SampleClass8 [DEBUG] detail for id 499737644
+2012-02-03 18:35:34 SampleClass6 [TRACE] verbose detail for id 400342153
+2012-02-03 18:35:34 SampleClass4 [INFO] everything normal for id 1868490543
+2012-02-03 18:35:34 SampleClass2 [DEBUG] detail for id 2059812448
+2012-02-03 18:35:34 SampleClass5 [TRACE] verbose detail for id 766423792
+2012-02-03 18:35:34 SampleClass3 [TRACE] verbose detail for id 671674205
+2012-02-03 18:35:34 SampleClass3 [DEBUG] detail for id 2146263624
+2012-02-03 18:35:34 SampleClass1 [TRACE] verbose detail for id 619472373
+2012-02-03 18:35:34 SampleClass5 [TRACE] verbose detail for id 1391429871
+2012-02-03 18:35:34 SampleClass1 [DEBUG] detail for id 1522968690
+2012-02-03 18:35:34 SampleClass1 [TRACE] verbose detail for id 173216708
+2012-02-03 18:35:34 SampleClass5 [TRACE] verbose detail for id 1089864222
+2012-02-03 18:35:34 SampleClass0 [DEBUG] detail for id 778459926
+2012-02-03 18:35:34 SampleClass2 [TRACE] verbose detail for id 775158107
+2012-02-03 18:35:34 SampleClass8 [TRACE] verbose detail for id 1143165501
+2012-02-03 18:35:34 SampleClass5 [DEBUG] detail for id 1533873133
+2012-02-03 18:35:34 SampleClass9 [INFO] everything normal for id 1916666627
+2012-02-03 18:35:34 SampleClass7 [TRACE] verbose detail for id 1530726118
+2012-02-03 18:35:34 SampleClass3 [TRACE] verbose detail for id 38243257
+2012-02-03 18:35:34 SampleClass7 [DEBUG] detail for id 1268939592
+2012-02-03 18:35:34 SampleClass0 [TRACE] verbose detail for id 309815198
+2012-02-03 18:35:34 SampleClass3 [TRACE] verbose detail for id 468333359
+2012-02-03 18:35:34 SampleClass8 [DEBUG] detail for id 1825950524
+2012-02-03 18:35:34 SampleClass1 [TRACE] verbose detail for id 1437966113
+2012-02-03 18:35:34 SampleClass9 [TRACE] verbose detail for id 224128931
+2012-02-03 18:35:34 SampleClass2 [DEBUG] detail for id 1536041481
+2012-02-03 18:35:34 SampleClass6 [TRACE] verbose detail for id 565782217
+2012-02-03 18:35:34 SampleClass0 [DEBUG] detail for id 1173921159
+2012-02-03 18:35:34 SampleClass0 [TRACE] verbose detail for id 1270949141
+2012-02-03 18:35:34 SampleClass8 [TRACE] verbose detail for id 2013059990
+2012-02-03 18:35:34 SampleClass5 [INFO] everything normal for id 739587626
+2012-02-03 18:35:34 SampleClass3 [DEBUG] detail for id 552130153
+2012-02-03 18:35:34 SampleClass7 [TRACE] verbose detail for id 1100232257
+2012-02-03 18:35:34 SampleClass5 [TRACE] verbose detail for id 1395624416
+2012-02-03 18:35:34 SampleClass9 [DEBUG] detail for id 342163745
+2012-02-03 18:35:34 SampleClass3 [TRACE] verbose detail for id 617561588
+2012-02-03 18:35:34 SampleClass7 [TRACE] verbose detail for id 1310951787
+2012-02-03 18:35:34 SampleClass6 [DEBUG] detail for id 2002740153
+2012-02-03 18:35:34 SampleClass0 [TRACE] verbose detail for id 1557575416
+2012-02-03 18:35:34 SampleClass9 [TRACE] verbose detail for id 1983250681
+2012-02-03 18:35:34 SampleClass6 [DEBUG] detail for id 1173250086
+2012-02-03 18:35:34 SampleClass9 [TRACE] verbose detail for id 1798066635
+2012-02-03 18:35:34 SampleClass0 [TRACE] verbose detail for id 931939552
+2012-02-03 18:35:34 SampleClass6 [DEBUG] detail for id 134320441
+2012-02-03 18:35:34 SampleClass4 [TRACE] verbose detail for id 422428024
+2012-02-03 18:35:34 SampleClass7 [INFO] everything normal for id 2050832396
+2012-02-03 18:35:34 SampleClass2 [TRACE] verbose detail for id 435411914
+2012-02-03 18:35:34 SampleClass2 [DEBUG] detail for id 1375153288
+2012-02-03 18:35:34 SampleClass7 [TRACE] verbose detail for id 1285719039
+2012-02-03 18:35:34 SampleClass5 [TRACE] verbose detail for id 145402884
+2012-02-03 18:35:34 SampleClass6 [DEBUG] detail for id 1564658346
+2012-02-03 18:35:34 SampleClass8 [TRACE] verbose detail for id 1932959719
+2012-02-03 18:35:34 SampleClass7 [DEBUG] detail for id 847623795
+2012-02-03 18:35:34 SampleClass0 [TRACE] verbose detail for id 559617879
+2012-02-03 18:35:34 SampleClass4 [TRACE] verbose detail for id 765627069
+2012-02-03 18:35:34 SampleClass6 [DEBUG] detail for id 1224092320
+2012-02-03 18:35:34 SampleClass5 [TRACE] verbose detail for id 1258772657
+2012-02-03 18:35:34 SampleClass9 [TRACE] verbose detail for id 1113842096
+2012-02-03 18:35:34 SampleClass7 [INFO] everything normal for id 781623964
+2012-02-03 18:35:34 SampleClass3 [DEBUG] detail for id 1426603165
+2012-02-03 18:35:34 SampleClass7 [TRACE] verbose detail for id 1912528762
+2012-02-03 18:35:34 SampleClass9 [TRACE] verbose detail for id 1616164055
+2012-02-03 18:35:34 SampleClass3 [DEBUG] detail for id 362382078
+2012-02-03 18:35:34 SampleClass2 [TRACE] verbose detail for id 457029489
+2012-02-03 18:35:34 SampleClass3 [TRACE] verbose detail for id 218393462
+2012-02-03 18:35:34 SampleClass0 [DEBUG] detail for id 645848704
+2012-02-03 18:35:34 SampleClass4 [TRACE] verbose detail for id 371434395
+2012-02-03 18:35:34 SampleClass8 [TRACE] verbose detail for id 686364317
+2012-02-03 18:35:34 SampleClass6 [DEBUG] detail for id 1030368497
+2012-02-03 18:35:34 SampleClass4 [TRACE] verbose detail for id 411397730
+2012-02-03 18:35:34 SampleClass4 [TRACE] verbose detail for id 591446031
+2012-02-03 18:35:34 SampleClass8 [DEBUG] detail for id 1794773877
+2012-02-03 18:35:34 SampleClass2 [TRACE] verbose detail for id 1089970947
+2012-02-03 18:35:34 SampleClass3 [INFO] everything normal for id 547313934
+2012-02-03 18:35:34 SampleClass9 [DEBUG] detail for id 16598231
+2012-02-03 18:35:34 SampleClass3 [TRACE] verbose detail for id 360863885
+2012-02-03 18:35:34 SampleClass1 [TRACE] verbose detail for id 708369257
+2012-02-03 18:35:34 SampleClass1 [DEBUG] detail for id 61674798
+2012-02-03 18:35:34 SampleClass6 [TRACE] verbose detail for id 772551455
+2012-02-03 18:35:34 SampleClass0 [TRACE] verbose detail for id 210906854
+2012-02-03 18:35:34 SampleClass3 [DEBUG] detail for id 52023398
+2012-02-03 18:35:34 SampleClass2 [TRACE] verbose detail for id 1486660878
+2012-02-03 18:35:34 SampleClass2 [TRACE] verbose detail for id 1158450661
+2012-02-03 18:35:34 SampleClass0 [DEBUG] detail for id 1190977932
+2012-02-03 18:35:34 SampleClass2 [TRACE] verbose detail for id 1191757349
+2012-02-03 18:35:34 SampleClass5 [TRACE] verbose detail for id 1556751471
+2012-02-03 18:35:34 SampleClass0 [INFO] everything normal for id 2044892337
+2012-02-03 18:35:34 SampleClass1 [DEBUG] detail for id 2130293335
+2012-02-03 18:35:34 SampleClass9 [TRACE] verbose detail for id 2063826525
+2012-02-03 18:35:34 SampleClass4 [TRACE] verbose detail for id 988304329
+2012-02-03 18:35:34 SampleClass7 [DEBUG] detail for id 372587635
+2012-02-03 18:35:34 SampleClass8 [TRACE] verbose detail for id 757509658
+2012-02-03 18:35:34 SampleClass6 [TRACE] verbose detail for id 1189164169
+2012-02-03 18:35:34 SampleClass4 [DEBUG] detail for id 1620699449
+2012-02-03 18:35:34 SampleClass5 [TRACE] verbose detail for id 1406148614
+2012-02-03 18:35:34 SampleClass2 [TRACE] verbose detail for id 907685529
+2012-02-03 18:35:34 SampleClass7 [DEBUG] detail for id 1740490143
+2012-02-03 18:35:34 SampleClass1 [TRACE] verbose detail for id 701889573
+2012-02-03 18:35:34 SampleClass2 [TRACE] verbose detail for id 7396032
+2012-02-03 18:35:34 SampleClass5 [DEBUG] detail for id 791840660
+2012-02-03 18:35:34 SampleClass8 [INFO] everything normal for id 1857885262
+2012-02-03 18:35:34 SampleClass4 [TRACE] verbose detail for id 764182614
+2012-02-03 18:35:34 SampleClass0 [DEBUG] detail for id 1768055227
+2012-02-03 18:40:36 SampleClass7 [TRACE] verbose detail for id 542803217
+2012-02-03 18:40:36 SampleClass5 [TRACE] verbose detail for id 1314166755
+2012-02-03 18:40:36 SampleClass4 [DEBUG] detail for id 1098585196
+2012-02-03 18:40:36 SampleClass8 [TRACE] verbose detail for id 991407675
+2012-02-03 18:40:36 SampleClass9 [WARN] missing id 715082426
+2012-02-03 18:40:36 SampleClass5 [TRACE] verbose detail for id 480000858
+2012-02-03 18:40:36 SampleClass7 [DEBUG] detail for id 258924934
+2012-02-03 18:40:36 SampleClass4 [TRACE] verbose detail for id 571440523
+2012-02-03 18:40:36 SampleClass2 [TRACE] verbose detail for id 293194156
+2012-02-03 18:40:36 SampleClass4 [DEBUG] detail for id 254080448
+2012-02-03 18:40:36 SampleClass7 [TRACE] verbose detail for id 542735694
+2012-02-03 18:40:36 SampleClass8 [INFO] everything normal for id 2028656087
+2012-02-03 18:40:36 SampleClass8 [TRACE] verbose detail for id 513536436
+2012-02-03 18:40:36 SampleClass5 [DEBUG] detail for id 1375144057
+2012-02-03 18:40:36 SampleClass2 [TRACE] verbose detail for id 1751687909
+2012-02-03 18:40:36 SampleClass2 [TRACE] verbose detail for id 229390750
+2012-02-03 18:40:36 SampleClass2 [DEBUG] detail for id 1263435152
+2012-02-03 18:40:36 SampleClass1 [TRACE] verbose detail for id 971546034
+2012-02-03 18:40:36 SampleClass0 [TRACE] verbose detail for id 1489081348
+2012-02-03 18:40:36 SampleClass0 [DEBUG] detail for id 1974977594
+2012-02-03 18:40:36 SampleClass4 [TRACE] verbose detail for id 894915373
+2012-02-03 18:40:36 SampleClass3 [DEBUG] detail for id 675052260
+2012-02-03 18:40:36 SampleClass5 [TRACE] verbose detail for id 496367434
+2012-02-03 18:40:36 SampleClass5 [TRACE] verbose detail for id 1729173297
+2012-02-03 18:40:36 SampleClass9 [DEBUG] detail for id 599346363
+2012-02-03 18:40:36 SampleClass5 [TRACE] verbose detail for id 1289642214
+2012-02-03 18:40:36 SampleClass9 [INFO] everything normal for id 852931937
+2012-02-03 18:40:36 SampleClass1 [TRACE] verbose detail for id 1206510216
+2012-02-03 18:40:36 SampleClass1 [DEBUG] detail for id 1324514084
+2012-02-03 18:40:36 SampleClass5 [TRACE] verbose detail for id 2087067981
+2012-02-03 18:40:36 SampleClass3 [TRACE] verbose detail for id 191203222
+2012-02-03 18:40:36 SampleClass3 [DEBUG] detail for id 2135742055
+2012-02-03 18:40:36 SampleClass0 [TRACE] verbose detail for id 326885491
+2012-02-03 18:40:36 SampleClass0 [TRACE] verbose detail for id 1252455486
+2012-02-03 18:40:36 SampleClass5 [DEBUG] detail for id 2140113578
+2012-02-03 18:40:36 SampleClass3 [TRACE] verbose detail for id 585470183
+2012-02-03 18:40:36 SampleClass7 [TRACE] verbose detail for id 1746719057
+2012-02-03 18:40:36 SampleClass9 [DEBUG] detail for id 1261559809
+2012-02-03 18:40:36 SampleClass0 [TRACE] verbose detail for id 42549042
+2012-02-03 18:40:36 SampleClass0 [INFO] everything normal for id 49647072
+2012-02-03 18:40:36 SampleClass9 [DEBUG] detail for id 1899039576
+2012-02-03 18:40:36 SampleClass3 [TRACE] verbose detail for id 540858853
+2012-02-03 18:40:36 SampleClass7 [TRACE] verbose detail for id 560777404
+2012-02-03 18:40:36 SampleClass5 [DEBUG] detail for id 285048743
+2012-02-03 18:40:36 SampleClass3 [TRACE] verbose detail for id 256774312
+2012-02-03 18:40:36 SampleClass2 [TRACE] verbose detail for id 353289318
+2012-02-03 18:40:36 SampleClass9 [DEBUG] detail for id 1070329362
+2012-02-03 18:40:36 SampleClass7 [TRACE] verbose detail for id 427454552
+2012-02-03 18:40:36 SampleClass0 [TRACE] verbose detail for id 1720312947
+2012-02-03 18:40:36 SampleClass8 [DEBUG] detail for id 1990881037
+2012-02-03 18:40:36 SampleClass2 [TRACE] verbose detail for id 471359701
+2012-02-03 18:40:36 SampleClass6 [TRACE] verbose detail for id 57035075
+2012-02-03 18:40:36 SampleClass3 [DEBUG] detail for id 771208754
+2012-02-03 18:40:36 SampleClass6 [INFO] everything normal for id 1243429480
+2012-02-03 18:40:36 SampleClass5 [TRACE] verbose detail for id 1452635388
+2012-02-03 18:40:36 SampleClass9 [TRACE] verbose detail for id 540871132
+2012-02-03 18:40:36 SampleClass7 [DEBUG] detail for id 1293987780
+2012-02-03 18:40:36 SampleClass7 [TRACE] verbose detail for id 2018625629
+2012-02-03 18:40:36 SampleClass1 [TRACE] verbose detail for id 1776925194
+2012-02-03 18:40:36 SampleClass8 [DEBUG] detail for id 243834522
+2012-02-03 18:40:36 SampleClass1 [TRACE] verbose detail for id 929833675
+2012-02-03 18:40:36 SampleClass5 [DEBUG] detail for id 2017152221
+2012-02-03 18:40:36 SampleClass0 [TRACE] verbose detail for id 553313635
+2012-02-03 18:40:36 SampleClass7 [TRACE] verbose detail for id 313704535
+2012-02-03 18:40:36 SampleClass0 [DEBUG] detail for id 106307824
+2012-02-03 18:40:36 SampleClass5 [TRACE] verbose detail for id 490132418
+2012-02-03 18:40:36 SampleClass8 [TRACE] verbose detail for id 980014356
+2012-02-03 18:40:36 SampleClass9 [INFO] everything normal for id 1930699662
+2012-02-03 18:40:36 SampleClass4 [DEBUG] detail for id 1457901133
+2012-02-03 18:40:36 SampleClass0 [TRACE] verbose detail for id 85606029
+2012-02-03 18:40:36 SampleClass5 [TRACE] verbose detail for id 271114752
+2012-02-03 18:40:36 SampleClass8 [DEBUG] detail for id 984811715
+2012-02-03 18:40:36 SampleClass7 [TRACE] verbose detail for id 240224698
+2012-02-03 18:40:36 SampleClass1 [TRACE] verbose detail for id 2020997102
+2012-02-03 18:40:36 SampleClass2 [DEBUG] detail for id 1846053809
+2012-02-03 18:40:36 SampleClass4 [TRACE] verbose detail for id 715228923
+2012-02-03 18:40:36 SampleClass0 [TRACE] verbose detail for id 384193257
+2012-02-03 18:40:36 SampleClass1 [DEBUG] detail for id 189044119
+2012-02-03 18:40:36 SampleClass8 [TRACE] verbose detail for id 1223748394
+2012-02-03 18:40:36 SampleClass8 [TRACE] verbose detail for id 238186480
+2012-02-03 18:40:36 SampleClass3 [DEBUG] detail for id 107987823
+2012-02-03 18:40:36 SampleClass2 [INFO] everything normal for id 1653545125
+2012-02-03 18:40:36 SampleClass6 [TRACE] verbose detail for id 1825513198
+2012-02-03 18:40:36 SampleClass8 [TRACE] verbose detail for id 1576776374
+2012-02-03 18:40:36 SampleClass0 [DEBUG] detail for id 428451282
+2012-02-03 18:40:36 SampleClass0 [TRACE] verbose detail for id 1564569859
+2012-02-03 18:40:36 SampleClass8 [DEBUG] detail for id 773913359
+2012-02-03 18:40:36 SampleClass9 [TRACE] verbose detail for id 1952441635
+2012-02-03 18:40:36 SampleClass2 [TRACE] verbose detail for id 462055015
+2012-02-03 18:40:36 SampleClass3 [DEBUG] detail for id 1079865003
+2012-02-03 18:40:36 SampleClass1 [TRACE] verbose detail for id 1912403519
+2012-02-03 18:40:36 SampleClass7 [TRACE] verbose detail for id 345240285
+2012-02-03 18:40:36 SampleClass9 [DEBUG] detail for id 1539479457
+2012-02-03 18:40:36 SampleClass8 [TRACE] verbose detail for id 1812964693
+2012-02-03 18:40:36 SampleClass1 [TRACE] verbose detail for id 175627720
+2012-02-03 18:40:36 SampleClass4 [DEBUG] detail for id 700750721
+2012-02-03 18:40:36 SampleClass5 [INFO] everything normal for id 944244387
+2012-02-03 18:40:36 SampleClass5 [TRACE] verbose detail for id 2045399343
+2012-02-03 18:40:36 SampleClass2 [TRACE] verbose detail for id 1941397886
+2012-02-03 18:40:36 SampleClass7 [DEBUG] detail for id 1238230556
+2012-02-03 18:40:36 SampleClass8 [TRACE] verbose detail for id 59985994
+2012-02-03 18:40:36 SampleClass1 [TRACE] verbose detail for id 292791224
+2012-02-03 18:40:36 SampleClass6 [DEBUG] detail for id 1399555576
+2012-02-03 18:40:36 SampleClass8 [TRACE] verbose detail for id 1279155628
+2012-02-03 18:40:36 SampleClass6 [TRACE] verbose detail for id 331381484
+2012-02-03 18:40:36 SampleClass2 [DEBUG] detail for id 1103582564
+2012-02-03 18:40:36 SampleClass7 [TRACE] verbose detail for id 1514586728
+2012-02-03 18:40:36 SampleClass1 [TRACE] verbose detail for id 836330812
+2012-02-03 18:40:36 SampleClass6 [DEBUG] detail for id 1137584902
+2012-02-03 18:40:36 SampleClass8 [TRACE] verbose detail for id 568075244
+2012-02-03 18:40:36 SampleClass7 [INFO] everything normal for id 1080791231
+2012-02-03 18:40:36 SampleClass1 [TRACE] verbose detail for id 1757707349
+2012-02-03 18:40:36 SampleClass5 [DEBUG] detail for id 1117387214
+2012-02-03 18:40:36 SampleClass6 [TRACE] verbose detail for id 884368
+2012-02-03 18:40:36 SampleClass9 [DEBUG] detail for id 1160300063
+2012-02-03 18:40:36 SampleClass7 [TRACE] verbose detail for id 1074277269
+2012-02-03 18:40:36 SampleClass5 [TRACE] verbose detail for id 1102341478
+2012-02-03 18:40:36 SampleClass1 [DEBUG] detail for id 1315921163
+2012-02-03 18:40:36 SampleClass6 [TRACE] verbose detail for id 1585561727
+2012-02-03 18:40:36 SampleClass0 [TRACE] verbose detail for id 452211708
+2012-02-03 18:40:36 SampleClass2 [DEBUG] detail for id 730127148
+2012-02-03 18:40:36 SampleClass7 [TRACE] verbose detail for id 1150515287
+2012-02-03 18:40:36 SampleClass3 [TRACE] verbose detail for id 1519538521
+2012-02-03 18:40:36 SampleClass1 [DEBUG] detail for id 84453466
+2012-02-03 18:40:36 SampleClass1 [TRACE] verbose detail for id 623474608
+2012-02-03 18:40:36 SampleClass6 [INFO] everything normal for id 1845584660
+2012-02-03 18:40:36 SampleClass2 [TRACE] verbose detail for id 1855034181
+2012-02-03 18:40:36 SampleClass7 [DEBUG] detail for id 904484462
+2012-02-03 18:40:36 SampleClass1 [TRACE] verbose detail for id 1949813261
+2012-02-03 18:40:36 SampleClass8 [DEBUG] detail for id 1866532839
+2012-02-03 18:40:36 SampleClass0 [TRACE] verbose detail for id 1491686292
+2012-02-03 18:40:36 SampleClass6 [TRACE] verbose detail for id 1260796170
+2012-02-03 18:55:54 SampleClass4 [DEBUG] detail for id 8597829
+2012-02-03 18:55:54 SampleClass1 [ERROR] incorrect id  1159281532
+2012-02-03 18:55:54 SampleClass5 [TRACE] verbose detail for id 582636405
+2012-02-03 18:55:54 SampleClass1 [TRACE] verbose detail for id 921290882
+2012-02-03 18:55:54 SampleClass0 [WARN] missing id 2060960425
+2012-02-03 18:55:54 SampleClass6 [DEBUG] detail for id 448105135
+2012-02-03 18:55:54 SampleClass8 [TRACE] verbose detail for id 184424625
+2012-02-03 18:55:54 SampleClass0 [TRACE] verbose detail for id 678640973
+2012-02-03 18:55:54 SampleClass4 [DEBUG] detail for id 1626053843
+2012-02-03 18:55:54 SampleClass1 [INFO] everything normal for id 560707667
+2012-02-03 18:55:54 SampleClass3 [TRACE] verbose detail for id 430808281
+2012-02-03 18:55:54 SampleClass3 [TRACE] verbose detail for id 2132853461
+2012-02-03 18:55:54 SampleClass5 [DEBUG] detail for id 906260911
+2012-02-03 18:55:54 SampleClass3 [TRACE] verbose detail for id 826917306
+2012-02-03 18:55:54 SampleClass9 [TRACE] verbose detail for id 1287504819
+2012-02-03 18:55:54 SampleClass6 [DEBUG] detail for id 954808823
+2012-02-03 18:55:54 SampleClass4 [TRACE] verbose detail for id 1363319084
+2012-02-03 18:55:54 SampleClass8 [TRACE] verbose detail for id 194837567
+2012-02-03 18:55:54 SampleClass5 [DEBUG] detail for id 1500280612
+2012-02-03 18:55:54 SampleClass4 [TRACE] verbose detail for id 2054521808
+2012-02-03 18:55:54 SampleClass0 [TRACE] verbose detail for id 1207456941
+2012-02-03 18:55:54 SampleClass3 [DEBUG] detail for id 1428677920
+2012-02-03 18:55:54 SampleClass1 [TRACE] verbose detail for id 592938104
+2012-02-03 18:55:54 SampleClass1 [INFO] everything normal for id 589810760
+2012-02-03 18:55:54 SampleClass4 [DEBUG] detail for id 1936185534
+2012-02-03 18:55:54 SampleClass8 [TRACE] verbose detail for id 587546988
+2012-02-03 18:55:54 SampleClass2 [TRACE] verbose detail for id 37407650
+2012-02-03 18:55:54 SampleClass0 [DEBUG] detail for id 1122506691
+2012-02-03 18:55:54 SampleClass1 [TRACE] verbose detail for id 641891216
+2012-02-03 18:55:54 SampleClass5 [TRACE] verbose detail for id 1340558229
+2012-02-03 18:55:54 SampleClass1 [DEBUG] detail for id 234717526
+2012-02-03 18:55:54 SampleClass3 [TRACE] verbose detail for id 193345391
+2012-02-03 18:55:54 SampleClass7 [TRACE] verbose detail for id 62689928
+2012-02-03 18:55:54 SampleClass0 [DEBUG] detail for id 1621342183
+2012-02-03 18:55:54 SampleClass4 [TRACE] verbose detail for id 6496589
+2012-02-03 18:55:54 SampleClass4 [TRACE] verbose detail for id 1871683315
+2012-02-03 18:55:54 SampleClass0 [DEBUG] detail for id 561758387
+2012-02-03 18:55:54 SampleClass9 [INFO] everything normal for id 1556558203
+2012-02-03 18:55:54 SampleClass8 [TRACE] verbose detail for id 1608356821
+2012-02-03 18:55:54 SampleClass4 [DEBUG] detail for id 981351386
+2012-02-03 18:55:54 SampleClass1 [TRACE] verbose detail for id 1697407208
+2012-02-03 18:55:54 SampleClass9 [TRACE] verbose detail for id 793381015
+2012-02-03 18:55:54 SampleClass1 [DEBUG] detail for id 2015119687
+2012-02-03 18:55:54 SampleClass8 [TRACE] verbose detail for id 1784078443
+2012-02-03 18:55:54 SampleClass4 [TRACE] verbose detail for id 754747732
+2012-02-03 18:55:54 SampleClass8 [DEBUG] detail for id 1234656216
+2012-02-03 18:55:54 SampleClass8 [TRACE] verbose detail for id 1886943245
+2012-02-03 18:55:54 SampleClass0 [TRACE] verbose detail for id 1649348816
+2012-02-03 18:55:54 SampleClass9 [DEBUG] detail for id 105977351
+2012-02-03 18:55:54 SampleClass8 [TRACE] verbose detail for id 1938478126
+2012-02-03 18:55:54 SampleClass3 [INFO] everything normal for id 101696670
+2012-02-03 18:55:54 SampleClass3 [TRACE] verbose detail for id 1548135120
+2012-02-03 18:55:54 SampleClass8 [DEBUG] detail for id 967402958
+2012-02-03 18:55:54 SampleClass5 [TRACE] verbose detail for id 88491521
+2012-02-03 18:55:54 SampleClass2 [TRACE] verbose detail for id 1075230423
+2012-02-03 18:55:54 SampleClass9 [DEBUG] detail for id 1200123683
+2012-02-03 18:55:54 SampleClass8 [TRACE] verbose detail for id 1007362439
+2012-02-03 18:55:54 SampleClass4 [TRACE] verbose detail for id 1925336722
+2012-02-03 18:55:54 SampleClass1 [DEBUG] detail for id 926539112
+2012-02-03 18:55:54 SampleClass0 [TRACE] verbose detail for id 1630710503
+2012-02-03 18:55:54 SampleClass3 [DEBUG] detail for id 1940620731
+2012-02-03 18:55:54 SampleClass4 [TRACE] verbose detail for id 1891314860
+2012-02-03 18:55:54 SampleClass8 [TRACE] verbose detail for id 2114675826
+2012-02-03 18:55:54 SampleClass5 [DEBUG] detail for id 2028374150
+2012-02-03 18:55:54 SampleClass1 [INFO] everything normal for id 1810090956
+2012-02-03 18:55:54 SampleClass9 [TRACE] verbose detail for id 183339513
+2012-02-03 18:55:54 SampleClass8 [TRACE] verbose detail for id 1500617107
+2012-02-03 18:55:54 SampleClass6 [DEBUG] detail for id 1062285837
+2012-02-03 18:55:54 SampleClass6 [TRACE] verbose detail for id 1201156335
+2012-02-03 18:55:54 SampleClass4 [TRACE] verbose detail for id 1371828413
+2012-02-03 18:55:54 SampleClass4 [DEBUG] detail for id 1874414321
+2012-02-03 18:55:54 SampleClass5 [TRACE] verbose detail for id 859283187
+2012-02-03 18:55:54 SampleClass9 [TRACE] verbose detail for id 2040938811
+2012-02-03 18:55:54 SampleClass4 [DEBUG] detail for id 946117720
+2012-02-03 18:55:54 SampleClass2 [TRACE] verbose detail for id 1516836646
+2012-02-03 18:55:54 SampleClass0 [TRACE] verbose detail for id 1128787132
+2012-02-03 18:55:54 SampleClass4 [DEBUG] detail for id 1109460584
+2012-02-03 18:55:54 SampleClass6 [TRACE] verbose detail for id 1170722669
+2012-02-03 18:55:54 SampleClass4 [INFO] everything normal for id 23642439
+2012-02-03 18:55:54 SampleClass0 [TRACE] verbose detail for id 1584428283
+2012-02-03 18:55:54 SampleClass0 [DEBUG] detail for id 989817872
+2012-02-03 18:55:54 SampleClass8 [TRACE] verbose detail for id 207534758
+2012-02-03 18:55:54 SampleClass3 [DEBUG] detail for id 17140434
+2012-02-03 18:55:54 SampleClass5 [TRACE] verbose detail for id 787974413
+2012-02-03 18:55:54 SampleClass7 [TRACE] verbose detail for id 1825149485
+2012-02-03 18:55:54 SampleClass8 [DEBUG] detail for id 1028498314
+2012-02-03 18:55:54 SampleClass7 [TRACE] verbose detail for id 890665632
+2012-02-03 18:55:54 SampleClass1 [TRACE] verbose detail for id 59240454
+2012-02-03 18:55:54 SampleClass4 [DEBUG] detail for id 1029178762
+2012-02-03 18:55:54 SampleClass2 [TRACE] verbose detail for id 1135460272
+2012-02-03 18:55:54 SampleClass4 [TRACE] verbose detail for id 275589442
+2012-02-03 18:55:54 SampleClass8 [DEBUG] detail for id 1594903856
+2012-02-03 18:55:54 SampleClass0 [TRACE] verbose detail for id 1678538890
+2012-02-03 18:55:54 SampleClass3 [INFO] everything normal for id 19138247
+2012-02-03 18:55:54 SampleClass5 [TRACE] verbose detail for id 1024643084
+2012-02-03 18:55:54 SampleClass3 [DEBUG] detail for id 1039818662
+2012-02-03 18:55:54 SampleClass2 [TRACE] verbose detail for id 1996134194
+2012-02-03 18:55:54 SampleClass9 [TRACE] verbose detail for id 1947166588
+2012-02-03 18:55:54 SampleClass8 [DEBUG] detail for id 218851536
+2012-02-03 18:55:54 SampleClass1 [TRACE] verbose detail for id 1765383670
+2012-02-03 18:55:54 SampleClass9 [TRACE] verbose detail for id 1666944491
+2012-02-03 18:55:54 SampleClass8 [DEBUG] detail for id 799914029
+2012-02-03 18:55:54 SampleClass7 [TRACE] verbose detail for id 1818100329
+2012-02-03 18:55:54 SampleClass5 [TRACE] verbose detail for id 1207171214
+2012-02-03 18:55:54 SampleClass3 [DEBUG] detail for id 1948330492
+2012-02-03 18:55:54 SampleClass2 [TRACE] verbose detail for id 205293058
+2012-02-03 18:55:54 SampleClass1 [INFO] everything normal for id 1446522366
+2012-02-03 18:55:54 SampleClass0 [TRACE] verbose detail for id 2052486472
+2012-02-03 18:55:54 SampleClass9 [DEBUG] detail for id 1783753678
+2012-02-03 18:55:54 SampleClass4 [TRACE] verbose detail for id 2009420525
+2012-02-03 18:55:54 SampleClass5 [DEBUG] detail for id 799201022
+2012-02-03 18:55:54 SampleClass7 [TRACE] verbose detail for id 225419438
+2012-02-03 18:55:54 SampleClass8 [TRACE] verbose detail for id 901538834
+2012-02-03 18:55:54 SampleClass4 [DEBUG] detail for id 1204053442
+2012-02-03 18:55:54 SampleClass1 [TRACE] verbose detail for id 1852844029
+2012-02-03 18:55:54 SampleClass3 [TRACE] verbose detail for id 1439643475
+2012-02-03 18:55:54 SampleClass4 [DEBUG] detail for id 1135523440
+2012-02-03 18:55:54 SampleClass4 [TRACE] verbose detail for id 663968985
+2012-02-03 18:55:54 SampleClass8 [TRACE] verbose detail for id 181134860
+2012-02-03 18:55:54 SampleClass1 [DEBUG] detail for id 991938571
+2012-02-03 18:55:54 SampleClass0 [TRACE] verbose detail for id 12629891
+2012-02-03 18:55:54 SampleClass8 [INFO] everything normal for id 1631887504
+2012-02-03 18:55:54 SampleClass9 [TRACE] verbose detail for id 1858052823
+2012-02-03 18:55:54 SampleClass6 [DEBUG] detail for id 1335222216
+2012-02-03 18:55:54 SampleClass8 [TRACE] verbose detail for id 1996782251
+2012-02-03 18:55:54 SampleClass5 [TRACE] verbose detail for id 186529499
+2012-02-03 18:55:54 SampleClass2 [DEBUG] detail for id 570051370
+2012-02-03 18:55:54 SampleClass0 [TRACE] verbose detail for id 1211360834
+2012-02-03 18:55:54 SampleClass2 [DEBUG] detail for id 65309910
+2012-02-03 18:55:54 SampleClass8 [TRACE] verbose detail for id 1481734365
+2012-02-03 18:55:54 SampleClass3 [TRACE] verbose detail for id 725162102
+2012-02-03 18:55:54 SampleClass4 [DEBUG] detail for id 497916631
+2012-02-03 18:55:54 SampleClass2 [TRACE] verbose detail for id 147102136
+2012-02-03 19:11:02 SampleClass1 [TRACE] verbose detail for id 917636316
+2012-02-03 19:11:02 SampleClass8 [INFO] everything normal for id 1028391171
+2012-02-03 19:11:02 SampleClass2 [DEBUG] detail for id 1316808512
+2012-02-03 19:11:02 SampleClass4 [TRACE] verbose detail for id 1490179386
+2012-02-03 19:11:02 SampleClass8 [TRACE] verbose detail for id 656914189
