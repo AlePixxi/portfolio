@@ -1,0 +1,16 @@
+Il gioco del 7 e mezzo prevede due fasi:
+
+    1- il giocatore riceve una carta coperta (il banco non saprà il suo valore),
+        successivamente il giocate potrà scegliere se farsi dare un'ulteriore carta
+        oppure può scegliere di "stare" e giocrae con il punteggio che ha.
+        Il giocatore può chiedere quante carte vale finchè non sballa (supera il punteggio di 7.5)
+        in quel caso il giocatore perde e vince automaticamente il banco
+    
+    2- Il banco è un giocatore a tutti gli effetti, e valgono tute le regole dette prima.
+        Importate: a parità di punteggio vince il banco
+        
+PUNTEGGI DELLE CARTE:
+dall'1 al 7 valgono esattamente quanto detto
+dall'8 al 10 valgono mezzo punto(0.5)
+
+NON SI PUÒ SUPERARE IL PUNTEGGIO DI 7.5 ALTRIMENTI SI SBALLA
